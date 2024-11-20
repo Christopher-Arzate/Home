@@ -13,8 +13,11 @@ I'm a curious data wrangler who loves to find meaning in different datasets. Thi
 ### Education
 ** Bachelor's Degree in  Data Science and Environmental Studies **- Lake Forest College
 
-### Certification 
+## Core Competencies
 
+- **Methodologies**: Machine Learning, Deep Learning,  Statistics, 
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy,  Matplotlib), R (Dplyr, Tidyr,  Ggplot2), SQL
+- **Tools**: MySQL, Tableau, MS Excel
 
 
 <!--
