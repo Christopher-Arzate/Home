@@ -1,4 +1,4 @@
-![image]() 
+![image](Images/Quote.png) 
 
 # About Me:
 
