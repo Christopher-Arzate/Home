@@ -11,7 +11,7 @@ I'm a curious data wrangler who loves to find meaning in different datasets. Thi
 
 
 ### Education
-** Bachelor's Degree in  Data Science and Environmental Studies **- Lake Forest College
+**Bachelor's Degree in  Data Science and Environmental Studies**: Lake Forest College
 
 ## Core Competencies
 
