@@ -8,7 +8,7 @@ I'm a curious data wrangler who loves to find meaning in different datasets. Thi
 
 # Projects
 
-<img align="left" width="250" height="150" src="Images/Laptop_proj.jpg"> **[Laptop Analysis and Classification](Laptops project/laptop_final.ipynb)**
+<img align="left" width="250" height="150" src="Images/Laptop_proj.jpg"> **[Laptop Analysis and Classification](https://github.com/Christopher-Arzate/Code/blob/main/Laptops%20project/laptop_final.ipynb)**
 ### 
 ### Carbon Emissions Analysis
 ### Social Media Analysis
