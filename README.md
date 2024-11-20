@@ -9,9 +9,14 @@ I'm a curious data wrangler who loves to find meaning in different datasets. Thi
 # Projects
 
 <img align="left" width="250" height="150" src="Images/Laptop_proj.jpg"> **[Laptop Analysis and Classification](https://github.com/Christopher-Arzate/Code/blob/main/Laptops%20project/laptop_final.ipynb)**
-### 
-### Carbon Emissions Analysis
-### Social Media Analysis
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#
+<img align="left" width="250" height="150" src="Images/Laptop_proj.jpg"> **[Laptop Analysis and Classification](https://github.com/Christopher-Arzate/Code/blob/main/Laptops%20project/laptop_final.ipynb)**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#
+<img align="left" width="250" height="150" src="Images/Laptop_proj.jpg"> **[Laptop Analysis and Classification](https://github.com/Christopher-Arzate/Code/blob/main/Laptops%20project/laptop_final.ipynb)**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#
 
 # Education
 **Bachelor's Degree in  Data Science and Environmental Studies**: Lake Forest College
