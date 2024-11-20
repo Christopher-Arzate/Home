@@ -1,8 +1,16 @@
-## Hi there 👋
+# Hi there, My Name is Christopher Arzate Benitez or call me Chris for short.
+
+## A Data Scientist and Data Analyst who loves to find meaning in data
+# About Me
+
+### Education
+** Bachelor's Degree in  Data Science and Environmental Studies **- Lake Forest College
+
+### Certification 
+
+
 
 <!--
-**Christopher-Arzate/Christopher-Arzate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
