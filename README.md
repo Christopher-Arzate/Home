@@ -19,8 +19,8 @@ In this project, I went to Kaggle to find a dataset where I could review my data
 In this project, this was a project for my fellowship at COOP. Our task was to group up with other analysts to look into a carbon emissions dataset uncover some observations and create insights based on these observations. My role in the project was to look into each continent and Identify who were the most emitting countries in history.     
 
 #
-**[Social Media Analysis ](https://github.com/Christopher-Arzate/Social_Media)**
-<img align="left" width="250" height="175" src="Images/Social_Media.png"> 
+
+<img align="left" width="250" height="175" src="Images/Social_Media.png"> **[Social Media Analysis ](https://github.com/Christopher-Arzate/Social_Media)**
 
 In this project, this was my capstone project for my fellowship at COOP. Our task was to group up with other analysts to look into a simulated media company's historical data to see if certain areas of the dataset could lead to plans for the company. My role in the project was being the Audience analyst so I was responsible for looking into the different audience segments and using KPI to identify the best/worst audiences and create 3 personality personas to present in a PowerPoint.   
 
