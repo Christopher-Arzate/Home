@@ -10,7 +10,7 @@ I'm a curious data wrangler who loves to find meaning in different datasets. Thi
 
 <img align="left" width="250" height="150" src="Images/Laptop_proj.jpg"> **[Laptop Analysis and Classification](https://github.com/Christopher-Arzate/Code/blob/main/Laptops%20project/laptop_final.ipynb)**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In this project, I went to Kaggle to find a dataset where I could review my data analysis and machine learning libraries I learned from my college classes. I found a data set [Laptop Analysis and Classification](https://github.com/Christopher-Arzate/Code/blob/main/Laptops%20project/laptop_final.ipynb)    
 
 #
 
