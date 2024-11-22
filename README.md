@@ -10,7 +10,7 @@ I'm a curious data wrangler who loves to find meaning in different datasets. Thi
 
 <img align="left" width="250" height="150" src="Images/Laptop_proj.jpg"> **[Laptop Analysis and Classification](https://github.com/Christopher-Arzate/Code/blob/main/Laptops%20project/laptop_final.ipynb)**
 
-In this project, I went to Kaggle to find a dataset where I could review my data analysis and machine learning libraries I learned from my college classes. I found a data set called **[Latest Laptop Price List](https://www.kaggle.com/datasets/kuchhbhi/latest-laptop-price-list)** which had different brands of laptops, their hardware specs, and the price. This dataset piqued my interest since my interest in technology, analyzing the price of a laptop based on its hardware, and can a machine accurately classify brands of laptops.    
+In this project, I went to Kaggle to find a dataset where I could review my data analysis and machine learning libraries I learned from my college classes. I found a data set called **[Latest Laptop Price List] (https://www.kaggle.com/datasets/kuchhbhi/latest-laptop-price-list)** which had different brands of laptops, their hardware specs, and the price. This dataset piqued my interest since my interest in technology. In this project, I  analyze the price of a laptop based on its hardware and used classification models to classify brands of laptops based on their specs. 
 
 #
 
