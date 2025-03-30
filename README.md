@@ -10,14 +10,14 @@ I'm a curious data wrangler who loves to find meaning in different datasets. Thi
 
 <img align="left" width="250" height="170" src="Images/Laptop_proj.jpg"> **[Laptop Analysis and Classification](https://github.com/Christopher-Arzate/Code/blob/main/Laptops%20project/laptop_final.ipynb)**
 
-In this project, I went to Kaggle to find a dataset where I reviewed my data analysis and machine learning libraries I learned from my college classes. I found a data set called **[Latest Laptop Price List](https://www.kaggle.com/datasets/kuchhbhi/latest-laptop-price-list)** which had different brands of laptops, their hardware specs, and the price.  In this project, I analyzed the cost of a laptop based on its hardware and used classification models to classify brands of laptops based on their specs. 
+In this project, I went to Kaggle to find a dataset where I reviewed my data analysis and machine learning libraries I learned from my college classes. I found a data set called **[Latest Laptop Price List](https://www.kaggle.com/datasets/kuchhbhi/latest-laptop-price-list)** which had different brands of laptops, their hardware specs, and the price.  
 
 
 #
 
 <img align="left" width="250" height="170" src="Images/Factory_Emissions.jpeg"> **[Carbon Emmisions Analysis](https://github.com/Christopher-Arzate/Carbon)**
 
-In this project, this was a project for my fellowship at COOP. Our task was to group up with other analysts to look into a carbon emissions dataset uncover some observations and create insights based on these observations. My role in the project was to look into each continent and Identify who were the most emitting countries in history.     
+In this project, this was a project for my fellowship at COOP. Our task was to group up with other analysts to look into a carbon emissions dataset uncover some observations and create insights based on these observations. My role in the project was to look into each continent and identify who were the most emitting countries in history.     
 
 
 #
