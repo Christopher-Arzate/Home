@@ -6,18 +6,22 @@ Hi there, My Name is Christopher or call me Chris for short.
 
 I'm a curious data wrangler who loves to find meaning in different datasets. This interest came from my degree and time learning Data Science I want my skills to create an impact on people in need. When I'm not interested in data, I'm an amateur cellular photographer who loves taking urban/rural scenery, playing video games such as Elden Ring and Pokemon, and listening to J-rock, Metal, and Pop music. Currently, I am looking for a job where I can utilize my analytics/scientific skills and continue learning how these skills are used in the workplace.   
 
-## Projects
-
-<img align="left" width="250" height="170" src="Images/Laptop_proj.jpg"> **[Laptop Analysis and Classification](https://github.com/Christopher-Arzate/Code/blob/main/Laptops%20project/laptop_final.ipynb)**
-
-In this project, I went to Kaggle to find a dataset where I reviewed my data analysis and machine learning libraries I learned from my college classes. I found a data set called **[Latest Laptop Price List](https://www.kaggle.com/datasets/kuchhbhi/latest-laptop-price-list)** which had different brands of laptops, their hardware specs, and the price. This project was a great exercise to understand machine learning ideas
-
-
-#
+##  Featured Projects
 
 <img align="left" width="250" height="170" src="Images/Factory_Emissions.jpeg"> **[Carbon Emmisions Analysis](https://github.com/Christopher-Arzate/Carbon)**
 
 In this project, this was a project for my fellowship at COOP. Our task was to group up with other analysts to look into a carbon emissions dataset uncover some observations and create insights based on these observations. My role in the project was to look into each continent and identify who were the most emitting countries in history.     
+
+
+#
+
+<img align="left" width="250" height="170" src="Images/Laptop_proj.jpg"> **[Laptop Analysis and Classification](https://github.com/Christopher-Arzate/Code/blob/main/Laptops%20project/laptop_final.ipynb)**
+
+In this project, I went to Kaggle to find a dataset where I reviewed my data analysis and machine learning libraries I learned from my college classes. I found a data set called **[Latest Laptop Price List](https://www.kaggle.com/datasets/kuchhbhi/latest-laptop-price-list)** which had different brands of laptops, their hardware specs, and the price. This project was a great exercise to understand machine learning ideas.
+
+
+#
+
 
 
 #
@@ -28,6 +32,9 @@ In this project, this was my capstone project for my fellowship at COOP. Our tas
 
 
 #
+
+
+## Projects
 
 
 ## Education
