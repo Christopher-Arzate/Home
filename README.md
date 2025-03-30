@@ -27,8 +27,8 @@ In this project, this was my capstone project for my fellowship at COOP. Our tas
 #
 
 
-## Projects
-**[Carbon Emmisions Analysis](https://github.com/Christopher-Arzate/Carbon)**
+##  Other Projects
+**[Carbon Emmisions Analysis](https://github.com/Christopher-Arzate/Carbon)**  An Excel/tableau analysis of carbon trends of countries around the world
 
 ## Education
 
