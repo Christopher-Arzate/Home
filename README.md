@@ -10,7 +10,7 @@ I'm a curious data wrangler who loves to find meaning in different datasets. Thi
 
 <img align="left" width="250" height="170" src="Images/video-games.jpg"> **[Gaming Library Review](https://github.com/Christopher-Arzate/Gaming-Library)**
 
-In this project, I crafted code to collect specific video games prices for an entire month and create a analytical report and a dashboard to highlight the best the prices of videos games based on the online games stores.
+In this project, I crafted code to collect specific video games prices for an entire month and create a analytical report and a dashboard to highlight the best the prices of videos games based on the online games stores. This was a fun project highlighting the full data process from planning, creating, collecting,analyzing and vizulizating an entire project. This project was in the work for 3 months.
 #
 
 <img align="left" width="250" height="170" src="Images/Laptop_proj.jpg"> **[Laptop Analysis and Classification](https://github.com/Christopher-Arzate/Code/blob/main/Laptops%20project/laptop_final.ipynb)**
