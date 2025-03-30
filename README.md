@@ -8,22 +8,14 @@ I'm a curious data wrangler who loves to find meaning in different datasets. Thi
 
 ##  Featured Projects
 
-<img align="left" width="250" height="170" src="Images/Factory_Emissions.jpeg"> **[Carbon Emmisions Analysis](https://github.com/Christopher-Arzate/Carbon)**
+<img align="left" width="250" height="170" src="Images/video-games.jpg"> **[Gaming Library Review](https://github.com/Christopher-Arzate/Gaming-Library)**
 
-In this project, this was a project for my fellowship at COOP. Our task was to group up with other analysts to look into a carbon emissions dataset uncover some observations and create insights based on these observations. My role in the project was to look into each continent and identify who were the most emitting countries in history.     
-
-
+In this project, I crafted code to collect specific video games prices for an entire month and create a analytical report and a dashboard to highlight the best the prices of videos games based on the online games stores.
 #
 
 <img align="left" width="250" height="170" src="Images/Laptop_proj.jpg"> **[Laptop Analysis and Classification](https://github.com/Christopher-Arzate/Code/blob/main/Laptops%20project/laptop_final.ipynb)**
 
 In this project, I went to Kaggle to find a dataset where I reviewed my data analysis and machine learning libraries I learned from my college classes. I found a data set called **[Latest Laptop Price List](https://www.kaggle.com/datasets/kuchhbhi/latest-laptop-price-list)** which had different brands of laptops, their hardware specs, and the price. This project was a great exercise to understand machine learning ideas.
-
-
-#
-<img align="left" width="250" height="170" src="Images/video-games.jpg"> **[Gaming Library Review](https://github.com/Christopher-Arzate/Gaming-Library)**
-
-In this project, this was a project for my fellowship at COOP. Our task was to group up with other analysts to look into a carbon emissions dataset uncover some observations and create insights based on these observations. My role in the project was to look into each continent and identify who were the most emitting countries in history. 
 
 #
 
@@ -36,7 +28,7 @@ In this project, this was my capstone project for my fellowship at COOP. Our tas
 
 
 ## Projects
-
+**[Carbon Emmisions Analysis](https://github.com/Christopher-Arzate/Carbon)**
 
 ## Education
 
