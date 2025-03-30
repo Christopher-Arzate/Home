@@ -21,8 +21,9 @@ In this project, I went to Kaggle to find a dataset where I reviewed my data ana
 
 
 #
+<img align="left" width="250" height="170" src="Images/video-games.jpg"> **[Carbon Emmisions Analysis](https://github.com/Christopher-Arzate/Carbon)**
 
-
+In this project, this was a project for my fellowship at COOP. Our task was to group up with other analysts to look into a carbon emissions dataset uncover some observations and create insights based on these observations. My role in the project was to look into each continent and identify who were the most emitting countries in history. 
 
 #
 
