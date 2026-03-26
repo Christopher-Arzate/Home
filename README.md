@@ -33,6 +33,7 @@ In this project, this was my capstone project for my fellowship at COOP. Our tas
 ## Education
 
 **Bachelor's Degree in  Data Science and Environmental Studies**: Lake Forest College
+
 **Graduate Student in Data Science**:Illinois Institute of Technology 
 
 ## Core Competencies
