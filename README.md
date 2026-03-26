@@ -19,7 +19,7 @@ In this project, I went to Kaggle to find a dataset where I reviewed my data ana
 
 #
 
-<img align="left" width="250" height="170" src="Images/Social_Media.png"> **[Social Media Analysis ](https://github.com/Christopher-Arzate/Social_Media)**
+<img align="left" width="250" height="200" src="Images/Social_Media.png"> **[Social Media Analysis ](https://github.com/Christopher-Arzate/Social_Media)**
 
 In this project, this was my capstone project for my fellowship at COOP. Our task was to group up with other analysts to look into a simulated media company's historical data to see if certain areas of the dataset could lead to plans for the company. My role in the project was being the Audience analyst so I was responsible for looking into the different audience segments and using KPI to identify the best/worst audiences
 
